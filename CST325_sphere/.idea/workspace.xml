@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6161e36d-ec57-48b3-931d-0fa9c1c9a5a6" name="Default Changelist" comment="adding names as comment">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/math/sphere.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/math/sphere.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YdaqMG2q0ywTP5Oc1sxAGKmPA7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="test-sphere.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/CST325_sphere/test/test-sphere.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.test-sphere.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6161e36d-ec57-48b3-931d-0fa9c1c9a5a6" name="Default Changelist" comment="" />
+      <created>1583275114977</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583275114977</updated>
+      <workItem from="1583275116666" duration="1000000" />
+      <workItem from="1583289267337" duration="209000" />
+      <workItem from="1583587296866" duration="2196000" />
+      <workItem from="1583683194759" duration="5057000" />
+      <workItem from="1583690548091" duration="293000" />
+    </task>
+    <task id="LOCAL-00001" summary="completed sphere.js file">
+      <created>1583689842513</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583689842513</updated>
+    </task>
+    <task id="LOCAL-00002" summary="completed sphere.js file">
+      <created>1583689946125</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583689946125</updated>
+    </task>
+    <task id="LOCAL-00003" summary="completed sphere.js file">
+      <created>1583690347372</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1583690347372</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="completed sphere.js file" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed sphere.js file" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="23" key="CommitChangelistDialog2" timestamp="1583690690031">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state x="223" y="23" key="CommitChangelistDialog2/0.23.1280.726@0.23.1280.726" timestamp="1583690690031" />
+    <state x="223" y="23" key="CommitChangelistDialog2/0.23.1280.727@0.23.1280.727" timestamp="1583690347089" />
+    <state x="240" y="126" key="Vcs.Push.Dialog.v2" timestamp="1583690349378">
+      <screen x="0" y="23" width="1280" height="727" />
+    </state>
+    <state x="240" y="126" key="Vcs.Push.Dialog.v2/0.23.1280.726@0.23.1280.726" timestamp="1583689846169" />
+    <state x="240" y="126" key="Vcs.Push.Dialog.v2/0.23.1280.727@0.23.1280.727" timestamp="1583690349378" />
+    <state x="279" y="184" key="git4idea.merge.GitPullDialog" timestamp="1583587723399">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state x="279" y="184" key="git4idea.merge.GitPullDialog/0.23.1280.726@0.23.1280.726" timestamp="1583587723399" />
+  </component>
+</project>
